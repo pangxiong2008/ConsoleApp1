@@ -16,7 +16,8 @@ namespace ConsoleApp1
         public void printMessage()
         { 
         
-         Console.WriteLine("Hello World!");
+         Console.WriteLine("Hello World,cory!");
+            Console.WriteLine("Hello World,cory!");
         }
     }
 }
