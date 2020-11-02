@@ -17,7 +17,7 @@ namespace ConsoleApp1
         { 
         
          Console.WriteLine("Hello World,cory!");
-            Console.WriteLine("Hello World,cory!");
+
         }
     }
 }
