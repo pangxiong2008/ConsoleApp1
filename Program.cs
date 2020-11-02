@@ -6,7 +6,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Print print = new Print();
+            print.printMessage();
+
+        }
+    }
+    public class Print
+    {
+        public void printMessage()
+        { 
+        
+         Console.WriteLine("Hello World!");
         }
     }
 }
